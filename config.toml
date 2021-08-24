@@ -1,0 +1,5 @@
+baseURL = "blog.leonnunes.dev"
+languageCode = "en-us"
+title = "Pepe's Blog"
+theme = "hugo-notepadium"
+copyright = "©2021 Notepadium."

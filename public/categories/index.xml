@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pepe&#39;s Blog</title>
+    <link>practical-sysadmin.com/categories/</link>
+    <description>Recent content in Categories on Pepe&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©2021 Notepadium.</copyright>
+    
+        <atom:link href="practical-sysadmin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
