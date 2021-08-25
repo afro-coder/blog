@@ -1,4 +1,3 @@
-baseURL = "blog.leonnunes.dev"
 languageCode = "en-us"
 title = "Pepe's Blog"
 theme = "hugo-notepadium"
